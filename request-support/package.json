@@ -1,0 +1,10 @@
+{
+  "name": "sample-http",
+  "version": "0.0.1",
+  "dependencies": {
+    "nodemailer": "^6.4.10",
+    "@slack/webhook": "5.0.2",
+    "humanize-duration": "3.21.0",
+    "@google-cloud/secret-manager": "^1.1.2"
+  }
+}
